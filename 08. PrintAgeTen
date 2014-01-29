@@ -1,0 +1,17 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PrintAgeTen
+{
+    class PrintAgeTen
+    {
+        static void Main(string[] args)
+        {
+            byte age = 28;
+            Console.WriteLine("My age after 10 years will be {0}", age + 10);
+        }
+    }
+}
