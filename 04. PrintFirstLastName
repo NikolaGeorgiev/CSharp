@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PrintFirstLastName
+{
+    class PrintFirstLastName
+    {
+        static void Main(string[] args)
+        {
+            string first = "Nikola";
+            string last = "Georgiev";
+            Console.WriteLine("My name is {0} {1}.", first, last);
+        }
+    }
+}
