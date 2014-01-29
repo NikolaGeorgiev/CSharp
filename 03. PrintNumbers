@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PrintNumbers
+{
+    class PrintNumbers
+    {
+        static void Main(string[] args)
+        {
+            int num = 1;
+            for (int i = 0; i < 3; i++)
+            {
+                if (i == 0)
+                {
+                    Console.Write(num);
+                }
+                else if (i == 1)
+                {
+                    Console.Write(num + "0" + num);
+                }
+                else if (i == 2)
+                {
+                    Console.Write(num + "00" + num);
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}
