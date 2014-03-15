@@ -1,0 +1,6 @@
+D:\CSharp\Part2\01. Arrays\ArraysHome\MergeSort\obj\Debug\13. MergeSort.csprojResolveAssemblyReference.cache
+D:\CSharp\Part2\01. Arrays\ArraysHome\MergeSort\bin\Debug\MergeSort.exe.config
+D:\CSharp\Part2\01. Arrays\ArraysHome\MergeSort\bin\Debug\MergeSort.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\MergeSort\bin\Debug\MergeSort.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\MergeSort\obj\Debug\MergeSort.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\MergeSort\obj\Debug\MergeSort.pdb

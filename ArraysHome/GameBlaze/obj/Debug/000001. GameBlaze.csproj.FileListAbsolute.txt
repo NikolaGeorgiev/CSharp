@@ -1,0 +1,9 @@
+D:\CSharp\Part2\01. Arrays\ArraysHome\GameBlaze\bin\Debug\GameBlaze.exe.config
+D:\CSharp\Part2\01. Arrays\ArraysHome\GameBlaze\bin\Debug\GameBlaze.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\GameBlaze\bin\Debug\GameBlaze.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\GameBlaze\obj\Debug\000001. GameBlaze.csprojResolveAssemblyReference.cache
+D:\CSharp\Part2\01. Arrays\ArraysHome\GameBlaze\obj\Debug\GameBlaze.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\GameBlaze\obj\Debug\GameBlaze.pdb
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\GameBlaze\bin\Debug\GameBlaze.exe.config
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\GameBlaze\obj\Debug\GameBlaze.exe
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\GameBlaze\obj\Debug\GameBlaze.pdb

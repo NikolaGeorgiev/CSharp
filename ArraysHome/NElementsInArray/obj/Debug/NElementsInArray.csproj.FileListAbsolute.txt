@@ -1,0 +1,1 @@
+E:\CSharp\Part2\01. Arrays\ArraysHome\NElementsInArray\bin\Debug\NElementsInArray.exe.config

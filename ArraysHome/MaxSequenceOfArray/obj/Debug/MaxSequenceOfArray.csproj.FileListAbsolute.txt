@@ -1,0 +1,1 @@
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxSequenceOfArray\bin\Debug\MaxSequenceOfArray.exe.config

@@ -1,0 +1,6 @@
+E:\CSharp\Part2\01. Arrays\ArraysHome\SellectionSortArrElement\bin\Debug\SellectionSortArrElement.exe.config
+E:\CSharp\Part2\01. Arrays\ArraysHome\SellectionSortArrElement\bin\Debug\SellectionSortArrElement.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\SellectionSortArrElement\bin\Debug\SellectionSortArrElement.pdb
+E:\CSharp\Part2\01. Arrays\ArraysHome\SellectionSortArrElement\obj\Debug\07. SellectionSortArrElement.csprojResolveAssemblyReference.cache
+E:\CSharp\Part2\01. Arrays\ArraysHome\SellectionSortArrElement\obj\Debug\SellectionSortArrElement.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\SellectionSortArrElement\obj\Debug\SellectionSortArrElement.pdb

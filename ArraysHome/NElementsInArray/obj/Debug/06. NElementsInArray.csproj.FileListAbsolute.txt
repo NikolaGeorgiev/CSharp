@@ -1,0 +1,6 @@
+E:\CSharp\Part2\01. Arrays\ArraysHome\NElementsInArray\bin\Debug\NElementsInArray.exe.config
+E:\CSharp\Part2\01. Arrays\ArraysHome\NElementsInArray\bin\Debug\NElementsInArray.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\NElementsInArray\bin\Debug\NElementsInArray.pdb
+E:\CSharp\Part2\01. Arrays\ArraysHome\NElementsInArray\obj\Debug\06. NElementsInArray.csprojResolveAssemblyReference.cache
+E:\CSharp\Part2\01. Arrays\ArraysHome\NElementsInArray\obj\Debug\NElementsInArray.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\NElementsInArray\obj\Debug\NElementsInArray.pdb

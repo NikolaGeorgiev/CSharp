@@ -1,0 +1,1 @@
+E:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\bin\Debug\FindMaxSum.exe.config

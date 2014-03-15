@@ -1,0 +1,6 @@
+D:\CSharp\Part2\01. Arrays\ArraysHome\SumInIntArray\obj\Debug\10. SumInIntArray.csprojResolveAssemblyReference.cache
+D:\CSharp\Part2\01. Arrays\ArraysHome\SumInIntArray\bin\Debug\SumInIntArray.exe.config
+D:\CSharp\Part2\01. Arrays\ArraysHome\SumInIntArray\bin\Debug\SumInIntArray.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\SumInIntArray\bin\Debug\SumInIntArray.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\SumInIntArray\obj\Debug\SumInIntArray.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\SumInIntArray\obj\Debug\SumInIntArray.pdb

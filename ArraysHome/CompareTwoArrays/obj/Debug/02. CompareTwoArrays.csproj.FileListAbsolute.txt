@@ -1,0 +1,11 @@
+E:\CSharp\Part2\Arrays\ArraysHome\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe.config
+E:\CSharp\Part2\Arrays\ArraysHome\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe
+E:\CSharp\Part2\Arrays\ArraysHome\CompareTwoArrays\bin\Debug\CompareTwoArrays.pdb
+E:\CSharp\Part2\Arrays\ArraysHome\CompareTwoArrays\obj\Debug\CompareTwoArrays.exe
+E:\CSharp\Part2\Arrays\ArraysHome\CompareTwoArrays\obj\Debug\CompareTwoArrays.pdb
+E:\CSharp\Part2\01. Arrays\ArraysHome\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe.config
+E:\CSharp\Part2\01. Arrays\ArraysHome\CompareTwoArrays\obj\Debug\CompareTwoArrays.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\CompareTwoArrays\obj\Debug\CompareTwoArrays.pdb
+E:\CSharp\Part2\01. Arrays\ArraysHome\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\CompareTwoArrays\bin\Debug\CompareTwoArrays.pdb
+E:\CSharp\Part2\01. Arrays\ArraysHome\CompareTwoArrays\obj\Debug\02. CompareTwoArrays.csprojResolveAssemblyReference.cache

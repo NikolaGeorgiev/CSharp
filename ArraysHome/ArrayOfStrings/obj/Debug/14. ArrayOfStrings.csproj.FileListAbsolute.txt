@@ -1,0 +1,12 @@
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe.config
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayOfStrings\obj\Debug\14. ArrayOfStrings.csprojResolveAssemblyReference.cache
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayOfStrings\bin\Debug\ArrayOfStrings.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayOfStrings\obj\Debug\ArrayOfStrings.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayOfStrings\obj\Debug\ArrayOfStrings.pdb
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe.config
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\ArrayOfStrings\obj\Debug\ArrayOfStrings.exe
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\ArrayOfStrings\obj\Debug\ArrayOfStrings.pdb
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\ArrayOfStrings\obj\Debug\14. ArrayOfStrings.csprojResolveAssemblyReference.cache
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\ArrayOfStrings\bin\Debug\ArrayOfStrings.exe
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\ArrayOfStrings\bin\Debug\ArrayOfStrings.pdb

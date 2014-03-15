@@ -1,0 +1,6 @@
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxSequenceOfArray\bin\Debug\MaxSequenceOfArray.exe.config
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxSequenceOfArray\obj\Debug\04. MaxSequenceOfArray.csprojResolveAssemblyReference.cache
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxSequenceOfArray\bin\Debug\MaxSequenceOfArray.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxSequenceOfArray\bin\Debug\MaxSequenceOfArray.pdb
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxSequenceOfArray\obj\Debug\MaxSequenceOfArray.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxSequenceOfArray\obj\Debug\MaxSequenceOfArray.pdb

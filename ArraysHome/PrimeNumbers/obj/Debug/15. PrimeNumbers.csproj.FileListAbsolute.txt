@@ -1,0 +1,6 @@
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\PrimeNumbers\obj\Debug\15. PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

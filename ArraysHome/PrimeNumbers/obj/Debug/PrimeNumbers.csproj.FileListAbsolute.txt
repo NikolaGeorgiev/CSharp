@@ -1,0 +1,1 @@
+D:\CSharp\02. SecondPart\01. Arrays\ArraysHome\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config

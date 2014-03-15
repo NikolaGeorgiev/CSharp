@@ -1,0 +1,6 @@
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayAlphabet\bin\Debug\ArrayAlphabet.exe.config
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayAlphabet\bin\Debug\ArrayAlphabet.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayAlphabet\bin\Debug\ArrayAlphabet.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayAlphabet\obj\Debug\12. ArrayAlphabet.csprojResolveAssemblyReference.cache
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayAlphabet\obj\Debug\ArrayAlphabet.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\ArrayAlphabet\obj\Debug\ArrayAlphabet.pdb

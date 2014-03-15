@@ -1,0 +1,6 @@
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxIncreasingSequence\bin\Debug\MaxIncreasingSequence.exe.config
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxIncreasingSequence\bin\Debug\MaxIncreasingSequence.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxIncreasingSequence\bin\Debug\MaxIncreasingSequence.pdb
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxIncreasingSequence\obj\Debug\05. MaxIncreasingSequence.csprojResolveAssemblyReference.cache
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxIncreasingSequence\obj\Debug\MaxIncreasingSequence.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\MaxIncreasingSequence\obj\Debug\MaxIncreasingSequence.pdb

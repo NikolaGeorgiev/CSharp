@@ -1,0 +1,6 @@
+D:\CSharp\Part2\01. Arrays\ArraysHome\JustCars\bin\Debug\JustCars.exe.config
+D:\CSharp\Part2\01. Arrays\ArraysHome\JustCars\bin\Debug\JustCars.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\JustCars\bin\Debug\JustCars.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\JustCars\obj\Debug\JustCars.csprojResolveAssemblyReference.cache
+D:\CSharp\Part2\01. Arrays\ArraysHome\JustCars\obj\Debug\JustCars.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\JustCars\obj\Debug\JustCars.pdb

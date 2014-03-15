@@ -1,0 +1,12 @@
+E:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\bin\Debug\FindMaxSum.exe.config
+E:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\bin\Debug\FindMaxSum.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\bin\Debug\FindMaxSum.pdb
+E:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\obj\Debug\08. FindMaxSum.csprojResolveAssemblyReference.cache
+E:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\obj\Debug\FindMaxSum.exe
+E:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\obj\Debug\FindMaxSum.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\bin\Debug\FindMaxSum.exe.config
+D:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\obj\Debug\FindMaxSum.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\obj\Debug\FindMaxSum.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\bin\Debug\FindMaxSum.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\bin\Debug\FindMaxSum.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\FindMaxSum\obj\Debug\08. FindMaxSum.csprojResolveAssemblyReference.cache

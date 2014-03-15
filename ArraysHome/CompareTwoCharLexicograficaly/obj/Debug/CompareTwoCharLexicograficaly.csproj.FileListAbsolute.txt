@@ -1,0 +1,1 @@
+E:\CSharp\Part2\Arrays\ArraysHome\CompareTwoCharLexicograficaly\bin\Debug\CompareTwoCharLexicograficaly.exe.config

@@ -1,0 +1,6 @@
+D:\CSharp\Part2\01. Arrays\ArraysHome\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+D:\CSharp\Part2\01. Arrays\ArraysHome\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\MostFrequentNumber\obj\Debug\09. MostFrequentNumber.csprojResolveAssemblyReference.cache
+D:\CSharp\Part2\01. Arrays\ArraysHome\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

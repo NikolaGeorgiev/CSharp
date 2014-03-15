@@ -1,0 +1,1 @@
+D:\CSharp\Part2\01. Arrays\ArraysHome\SumInIntArray\bin\Debug\SumInIntArray.exe.config

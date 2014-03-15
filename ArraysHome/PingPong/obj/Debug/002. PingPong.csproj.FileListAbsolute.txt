@@ -1,0 +1,6 @@
+D:\CSharp\Part2\01. Arrays\ArraysHome\PingPong\bin\Debug\PingPong.exe.config
+D:\CSharp\Part2\01. Arrays\ArraysHome\PingPong\bin\Debug\PingPong.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\PingPong\bin\Debug\PingPong.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\PingPong\obj\Debug\PingPong.exe
+D:\CSharp\Part2\01. Arrays\ArraysHome\PingPong\obj\Debug\PingPong.pdb
+D:\CSharp\Part2\01. Arrays\ArraysHome\PingPong\obj\Debug\002. PingPong.csprojResolveAssemblyReference.cache
